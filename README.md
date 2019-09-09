@@ -1,5 +1,6 @@
 # bs46spectrograms
-bs46spectrograms
+
+Spectrograms for http://www.din.uem.br/yandre/birds/bird\_songs\_46.tar.gz
 
 @INPROCEEDINGS{b41, 
 author={M. Sankupellay and  D. A. Konovalov}, 
